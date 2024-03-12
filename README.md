@@ -1,3 +1,10 @@
+
+# Terraform AWS Infrastructure Project
+
+This project uses Terraform to provision AWS resources across two regions. It is organized into modules for reusability and separated by regions to manage resources in different AWS regions effectively.
+
+
+
 ```bash
 .
 ├── README.md
@@ -28,10 +35,6 @@
 
 ```
 ---
-
-# Terraform AWS Infrastructure Project
-
-This project uses Terraform to provision AWS resources across two regions. It is organized into modules for reusability and separated by regions to manage resources in different AWS regions effectively.
 
 ## Project Structure
 
