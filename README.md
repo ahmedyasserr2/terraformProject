@@ -1,4 +1,3 @@
-Certainly! Here's a README.md draft for your Terraform project, structured as per the given directory tree. This README aims to guide users through the project's structure and its deployment steps.
 
 ---
 
