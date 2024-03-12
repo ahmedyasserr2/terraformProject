@@ -1,29 +1,3 @@
-.
-├── README.md
-├── modules
-│   ├── dynamodb
-│   │   ├── dynamodb.tf
-│   │   └── variables.tf
-│   ├── ec2
-│   │   ├── ec2.tf
-│   │   └── variables.tf
-│   ├── network
-│   │   ├── nw.tf
-│   │   ├── outputs.tf
-│   │   └── variables.tf
-│   └── s3
-│       ├── s3.tf
-│       └── variables.tf
-├── regionA
-│   ├── main.tf
-│   ├── provider.tf
-│   ├── terraform.tfvars
-│   └── variables.tf
-└── regionB
-    ├── main.tf
-    ├── provider.tf
-    ├── terraform.tfvars
-    └── variables.tf
 
 ---
 
